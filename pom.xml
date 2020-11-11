@@ -13,6 +13,7 @@
     <name>shopping-cart-microservices</name>
 
     <modules>
+        <module>catalog-service</module>
 
     </modules>
 
