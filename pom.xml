@@ -18,6 +18,7 @@
         <module>service-registry</module>
         <module>inventory-service</module>
         <module>hystrix-dashboard</module>
+        <module>shoppingcart-ui</module>
 
     </modules>
 
